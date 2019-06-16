@@ -1,0 +1,13 @@
+# Language S/W Installation
+
+python
+
+# Pip Installations
+
+pandas
+openpyxl
+beautifulsoup4
+selenium
+lxml
+
+# "chromedriver" required
